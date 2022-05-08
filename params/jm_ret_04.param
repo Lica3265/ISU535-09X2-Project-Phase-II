@@ -1,0 +1,9 @@
+<parameters>
+   <index>index/WT2G</index>
+   <count>1000</count>
+   <rule>method:jm,lambda:0.4</rule>  
+   <trecFormat>true</trecFormat>
+   <queryOffset>401</queryOffset>
+   <runID>Exp</runID>
+</parameters>
+
